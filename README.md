@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Docker**
 
-- 👨‍💻 All of my projects are available at [https://sourabh2001-dec.github.io/Portfolio/](https://sourabh2001-dec.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://sourabh2001-dec.github.io/](https://sourabh2001-dec.github.io/)
 
 - 💬 Ask me about **React, React Native, MERN stack**
 
